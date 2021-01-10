@@ -10,7 +10,9 @@ https://www.wenku8.net/
 
 ## 📥 Installation
 > Put the folder `Main crawler/novel` in anywhere you like.
+
 > Cd to the directory using command prompt.
+
 > Use the command `scrapy crawl n` to run the main program.
 
 ## 📜 Documention
