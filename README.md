@@ -1,7 +1,7 @@
 # Light Novel crawler
 
 ## ❗ Notice
-- The cralwer is only for academic use.
+- The crawler is only for academic use.
 - It is only suitable for the light novel website linked below.
 https://www.wenku8.net/
 
@@ -9,10 +9,10 @@ https://www.wenku8.net/
 - Scrapy==1.6.0
 
 ## 📥 Installation
-> Put the folder `Main cralwer/novel` in anywhere you like.
+> Put the folder `Main crawler/novel` in anywhere you like.
 > Cd to the directory using command prompt.
 > Use the command `scrapy crawl n` to run the main program.
 
 ## 📜 Documention
-- `Main crawler/novel` and `Aux cralwer/Image crawler` is recommanded to use together.
-- Use `Aux cralwer/Crack crawler` when the light novel was removed due to copyright issue.
+- `Main crawler/novel` and `Aux crawler/Image crawler` is recommanded to use together.
+- Use `Aux crawler/Crack crawler` when the light novel was removed due to copyright issue.
