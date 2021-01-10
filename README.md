@@ -16,5 +16,5 @@ https://www.wenku8.net/
 > Use the command `scrapy crawl n` to run the main program.
 
 ## 📜 Documention
-- `Main crawler/novel` and `Aux crawler/Image crawler` is recommanded to use together.
-- Use `Aux crawler/Crack crawler` when the light novel was removed due to copyright issue.
+- `Main crawler/novel` and `Aux crawler/Image crawler.py` is recommanded to use together.
+- Use `Aux crawler/Crack crawler.py` when the light novel was removed due to copyright issue.
